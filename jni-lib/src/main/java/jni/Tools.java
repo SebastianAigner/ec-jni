@@ -6,9 +6,5 @@ public class Tools {
             System.loadLibrary("tools");
     }
 
-    public String foo() {
-        return "foo";
-    }
-
     public native String bar();
 }
