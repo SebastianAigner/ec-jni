@@ -1,4 +1,8 @@
-# JNI Project With Gradle 
+# ec-jni
+
+Supplementary prototype for [kotlin-efficiency-cores](https://github.com/SebastianAigner/kotlin-efficiency-cores), built on the [gradle-jni sample project](https://github.com/stwind/gradle-jni).
+
+# Original readme: JNI Project With Gradle 
 
 A sample project setup/workflow for building JNI libraries (C++) with Gradle for references.
 
@@ -20,11 +24,7 @@ Tested on
 
 ## Building
 
-Clone the repo
-
 ```sh
-$ git clone https://github.com/stwind/gradle-jni.git
-$ cd gradle-jni
 $ ./gradlew run
 ```
 
